@@ -4,5 +4,5 @@
 
 KING 13기 게임 개발 프로젝트 "MUZIK IS MY LIFE(무직은 내 삶이다)"의 WebGL 빌드 레포지토리입니다.
 * 플레이 링크: https://teammuzik.github.io/MuzikIsMyLife-WebBuild/
-* 배포 버전: 2024.2.19 v2.0
+* 배포 버전: 2024.2.21 v8.2
 * 개발 레포지토리: https://github.com/TeamMuzik/MuzikIsMyLife
